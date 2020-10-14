@@ -1,0 +1,21 @@
+﻿  Project.cpp
+G:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project - XOR\Project\Project.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project - XOR\Project\Project.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project - XOR\Project\Project.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project - XOR\Project\Project.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project - XOR\Project\Project.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project - XOR\Project\Project.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project - XOR\Project\Project.cpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project - XOR\Project\Project.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project - XOR\Project\Project.cpp(211,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project - XOR\Project\Project.cpp(224,21): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+G:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project - XOR\Project\Project.cpp(224,21): warning C4244:         with
+G:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project - XOR\Project\Project.cpp(224,21): warning C4244:         [
+G:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project - XOR\Project\Project.cpp(224,21): warning C4244:             _Ty=int
+G:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project - XOR\Project\Project.cpp(224,21): warning C4244:         ]
+G:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project - XOR\Project\Project.cpp(246,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project - XOR\Project\Project.cpp(307,12): warning C4244: 'initializing': conversion from 'Eigen::Index' to 'int', possible loss of data
+G:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project - XOR\Project\Project.cpp(308,12): warning C4244: 'initializing': conversion from 'Eigen::Index' to 'int', possible loss of data
+G:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project - XOR\Project\Project.cpp(316,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project - XOR\Project\Project.cpp(394,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project.vcxproj -> G:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project - XOR\x64\Debug\Project.exe

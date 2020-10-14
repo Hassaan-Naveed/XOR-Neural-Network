@@ -1,0 +1,10 @@
+﻿  Project.cpp
+D:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project\Project\Project.cpp(77,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project\Project\Project.cpp(107,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project\Project\Project.cpp(116,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project\Project\Project.cpp(119,42): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+  Project.vcxproj -> D:\Work\Uni CompSci\Year 1\Term 2\C++\Project\Project\Debug\Project.exe
